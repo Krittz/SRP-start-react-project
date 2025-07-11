@@ -93,7 +93,7 @@ meu-dashboard/
 > Interface gerada automaticamente:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/32844089/194765273-b36d67fa-1c6e-4c02-b042-ea105f820802.png" alt="Preview App Kodificar" width="600"/>
+  <img src="./preview.png" alt="Preview App Kodificar" width="600"/>
 </p>
 
 ---
