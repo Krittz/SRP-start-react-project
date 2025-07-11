@@ -46,7 +46,11 @@ O `start-react-kodificar` é uma CLI em Go que cria, organiza e personaliza seu 
 ---
 
 ## ⚙️ Como usar
-
+```bash
+execute o arquivo run.exe
+```
+ ou
+ 
 ```bash
 go run main.go
 ```
